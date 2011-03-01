@@ -1,0 +1,8 @@
+{
+    "name": "ringo-captcha",
+    "version": "0.1.0",
+    "description": "captcha for ringojs webapps.",
+    "keywords": ["captcha"],
+    "author": "Gabriel Munteanu (http://bash.editia.info) <jajalinux@gmail.com>",
+    "jars": ["jars/ringo-captcha.jar"]
+}
